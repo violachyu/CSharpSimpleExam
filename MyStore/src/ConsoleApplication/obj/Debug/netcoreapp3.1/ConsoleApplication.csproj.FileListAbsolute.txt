@@ -1,0 +1,11 @@
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\MyStore\src\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb

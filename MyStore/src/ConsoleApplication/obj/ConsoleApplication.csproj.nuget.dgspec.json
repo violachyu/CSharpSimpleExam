@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj",
+        "projectName": "ConsoleApplication",
+        "projectPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj",
+        "packagesPath": "C:\\Users\\Jesse Wang\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jesse Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://entry.build.91app.io:8081/repository/nineyi-release-nuget/": {},
+          "http://nuget.nine-yi/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
