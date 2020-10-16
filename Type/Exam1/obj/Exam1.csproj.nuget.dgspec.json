@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj": {}
+    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj": {
+    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj",
-        "projectName": "ConsoleApplication",
-        "projectPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\ConsoleApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
+        "projectName": "Exam1",
+        "projectPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
         "packagesPath": "C:\\Users\\Jesse Wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\MyStore\\src\\ConsoleApplication\\obj\\",
+        "outputPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -42,6 +42,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
