@@ -8,7 +8,7 @@ namespace Exam1
     {
         public int StockQty { get; set; }
 
-        public int SafetyStockQty { get; set; }
+        public int? SafetyStockQty { get; set; }
 
         public string UpdatedUser { get; set; }
     }

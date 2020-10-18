@@ -11,3 +11,18 @@ C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreap
 C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb
 C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Jesse Wang\source\repos\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.CopyComplete
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.exe
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.deps.json
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.json
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.runtimeconfig.dev.json
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.dll
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Exam1.pdb
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.csprojAssemblyReference.cache
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfoInputs.cache
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.AssemblyInfo.cs
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.CoreCompileInputs.cache
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.csproj.CopyComplete
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.dll
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.pdb
+C:\91App\Test\CSharpSimpleExam\Type\Exam1\obj\Debug\netcoreapp3.1\Exam1.genruntimeconfig.cache

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {}
+    "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {
+    "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
+        "projectUniqueName": "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
         "projectName": "Exam1",
-        "projectPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
-        "packagesPath": "C:\\Users\\Jesse Wang\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\obj\\",
+        "projectPath": "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
+        "packagesPath": "C:\\Users\\Viola Chyu\\.nuget\\packages\\",
+        "outputPath": "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Jesse Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Viola Chyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.50.11.130:8081/repository/nuget-hosted/": {},
           "http://entry.build.91app.io:8081/repository/nineyi-release-nuget/": {},
           "http://nuget.nine-yi/nuget": {},
           "https://api.nuget.org/v3/index.json": {}
@@ -63,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

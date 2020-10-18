@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UESErolcC5GX0Gi3sMfXxd2SMBHDodWrm7x9sPlwrzI+FMz6PrJ38UTE6v+xdwncnNTfuyJC00GYtcT2KrbXWw==",
+  "dgSpecHash": "Wbz6aD8N7w9vrm3I+1iBpbPYYkctfwpfbCFA1tQU+nnALAKkzezqOe2ELb7TAvzMwOzgfyqJG2e7bMoQAJ3wRA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jesse Wang\\source\\repos\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\91App\\Test\\CSharpSimpleExam\\Type\\Exam1\\Exam1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Viola Chyu\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
